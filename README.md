@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sujeeth 👋
 
-<!--
-**sujeethshetty/sujeethshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I'm Building
 
-Here are some ideas to get you started:
+**[OpenBell.ai](https://openbell.ai)** - AI-scored real-time financial news for retail investors. Wall Street has Bloomberg. Now you have OpenBell.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding OpenBell with a multi-agent powered financial research platform featuring portfolio visualization and backtesting capabilities - think having a hedge fund analyst that speaks plain English.
+
+**🤖 AI Agent Collaboration** - Teaching my personal agent [Aira](https://github.com/orgs/tezra-io/people/aira-bot) to use Claude Code and autonomously push PRs while I handle the critical thinking and architectural decisions. She primarily manages the [tezra-io](https://github.com/tezra-io) organization.
+
+**🦀 ZeroClaw & Voice-OS** - Working with Aira on developing voice-os and enhancing ZeroClaw (a Rust-based virtual assistant) to support agent swarm capabilities for distributed AI workflows.
+
+## 📦 Personal Organizations
+
+- **[sixteen-dev](https://github.com/sixteen-dev)** - Development projects and experiments
+- **[tezra-io](https://github.com/tezra-io)** - AI agent infrastructure and tooling (managed by Aira)
+
+## 🎯 Current Focus
+
+- Multi-agent systems & agentic workflows
+- Fintech infrastructure & real-time financial data processing
+- Human-AI collaboration patterns for software development
+- AI evals and agent performance measurement
+- Data engineering with Spark, Kafka, and modern data lakehouse architectures
+
+## 🛠️ Tech Stack
+
+Python • Rust • Apache Spark • Kafka • Docker • AWS • OpenAI • Claude Code • AI Agents
+
+## 🔗 Find Me
+
+- 🌐 [sujeeth.dev](https://sujeeth.dev)
+- 🐦 [@sujeeth on X](https://x.com/xsujeeth)
