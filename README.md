@@ -10,7 +10,7 @@ Currently expanding OpenBell with a multi-agent powered financial research platf
 
 **🦀 ZeroClaw & Voice-OS** - Working with Aira on developing voice-os and enhancing ZeroClaw (a Rust-based virtual assistant) to support agent swarm capabilities for distributed AI workflows.
 
-## 📦 Personal Organizations
+## 📦 Personal AI Labs
 
 - **[sixteen-dev](https://github.com/sixteen-dev)** - Development projects and experiments
 - **[tezra-io](https://github.com/tezra-io)** - AI agent infrastructure and tooling (managed by Aira)
