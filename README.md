@@ -12,7 +12,7 @@ Currently expanding OpenBell with a multi-agent powered financial research platf
 
 ## 📦 Personal AI Labs
 
-- **[sixteen-dev](https://github.com/sixteen-dev)** - Development projects and experiments
+- **[sixteen-dev](https://github.com/sixteen-dev)** - open source projects and experiments
 - **[tezra-io](https://github.com/tezra-io)** - AI agent infrastructure and tooling (managed by Aira)
 
 ## 🎯 Current Focus
