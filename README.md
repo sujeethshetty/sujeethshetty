@@ -25,7 +25,7 @@ Currently expanding OpenBell with a multi-agent powered financial research platf
 
 ## 🛠️ Tech Stack
 
-Python • Rust • Apache Spark • Kafka • Docker • AWS • OpenAI • Claude Code • AI Agents
+Python • Rust • AIOps • DataOps • Apache Spark • Kafka • Docker • AWS • OpenAI SDK • Claude Code • AI Agents
 
 ## 🔗 Find Me
 
