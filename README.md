@@ -29,5 +29,5 @@ Python • Rust • TypeScript • AIOps • Apache Spark • Kafka • Docker �
 
 ## 🔗 Find Me
 
-- 🌐 [sujeeth.dev](https://sujeeth.dev)
+- 🌐 [sujeeth.io](https://sujeeth.io)
 - 🐦 [@sujeeth on X](https://x.com/xsujeeth)
