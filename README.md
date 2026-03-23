@@ -6,7 +6,7 @@
 
 Currently expanding OpenBell with a multi-agent powered financial research platform featuring portfolio visualization and backtesting capabilities - think having a hedge fund analyst that speaks plain English.
 
-**🤖 AI Agent Collaboration** - Teaching my personal agent [Aira](https://github.com/aira-bot) to use Claude Code and autonomously push PRs while I handle the critical thinking and architectural decisions. She primarily manages the [tezra-io](https://github.com/tezra-io) organization.
+**🤖 AI Agent Collaboration** - Teaching my personal agent [Aira](https://github.com/aira-bot) to use Claude Code and autonomously push PRs while I handle the critical thinking and architectural decisions. She only manages the [tezra-io](https://github.com/tezra-io) organization.
 
 **🦀 RustyClaw & Voice-OS** - Working with Aira on developing voice-os and enhancing RustyClaw (a clone of Zeroclaw) to support agent swarm capabilities for distributed AI workflows.
 
