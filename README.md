@@ -8,7 +8,7 @@ Currently expanding OpenBell with a multi-agent powered financial research platf
 
 **🤖 AI Agent Collaboration** - Teaching my personal agent [Aira](https://github.com/aira-bot) to use Claude Code and autonomously push PRs while I handle the critical thinking and architectural decisions. She primarily manages the [tezra-io](https://github.com/tezra-io) organization.
 
-**🦀 ZeroClaw & Voice-OS** - Working with Aira on developing voice-os and enhancing ZeroClaw (a Rust-based virtual assistant) to support agent swarm capabilities for distributed AI workflows.
+**🦀 RustyClaw & Voice-OS** - Working with Aira on developing voice-os and enhancing RustyClaw (a clone of Zeroclaw) to support agent swarm capabilities for distributed AI workflows.
 
 ## 📦 Personal AI Labs
 
