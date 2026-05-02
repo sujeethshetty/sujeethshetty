@@ -4,11 +4,11 @@
 
 **[OpenBell.ai](https://openbell.ai)** - AI-scored real-time financial news for retail investors. Wall Street has Bloomberg. Now you have OpenBell.
 
-Currently expanding OpenBell with a multi-agent powered financial research platform featuring portfolio visualization and backtesting capabilities - think having a hedge fund analyst that speaks plain English.
+Currently expanding OpenBell with [OBAI](https://github.com/sixteen-dev/obai), a multi-agent financial research platform. None specialist agents over FastMCP, portfolio visualization, and backtesting. Think a hedge fund analyst that speaks plain English.
 
 **🤖 AI Agent Collaboration** - Teaching my personal agent [Aira](https://github.com/aira-bot) to use Claude Code and autonomously push PRs while I handle the critical thinking and architectural decisions. She only manages the [tezra-io](https://github.com/tezra-io) organization.
 
-**🦀 RustyClaw & Voice-OS** - Working with Aira on developing voice-os and enhancing RustyClaw (a clone of Zeroclaw) to support agent swarm capabilities for distributed AI workflows.
+**🦀 **Loomforge & Fermix**: Working with Aira on [Loomforge](https://github.com/tezra-io/loomforge), a local workflow engine that automates the path from Linear issue to pull request. Plus Fermix, a personal agent that orchestrates swarms of agents like OpenClaw for distributed AI workflows.
 
 ## 📦 Personal AI Labs
 
